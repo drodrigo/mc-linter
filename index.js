@@ -119,7 +119,7 @@ github.pullRequests.getFiles({
       owner: OWNER,
       repo: REPO,
       number: PR_NUMBER,
-      body: 'MC-linter',
+      body: 'Daiego-Linter (powered By MC!!!!!!) :stuck_out_tongue:',
       event: 'COMMENT',
       comments,
     })
